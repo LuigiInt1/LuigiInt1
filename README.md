@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luigi dos Santos Bernardo,  nascido em 30/01/2004 e recentemente morando em Florianópolis-SC
-- 🌱 I’m currently learning lógica de programação e eletroeletrônica  em um curso técnico de Desenvolvimento de Sistemas pelo SENAI  de FLORIANÓPOLIS-SC
-- 📫 How to reach me ?   
+- 👋 OI, eu sou Luigi dos Santos Bernardo,  nascido em 30/01/2004 e recentemente morando em Florianópolis-SC
+- 🌱  Eu estou aprenedendo lógica de programação e eletroeletrônica  em um curso técnico de Desenvolvimento de Sistemas pelo SENAI  de FLORIANÓPOLIS-SC
+- 📫 Como falar comigo?   
 Email: luigisantostk@gmail.com --
 whatsapp: (51) 98457-4910
 
