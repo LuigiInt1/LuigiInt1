@@ -37,7 +37,7 @@ Olá! Sou Luigi dos Santos, um entusiasta da programação e apaixonado por tecn
 
 ## Projetos Destacados
 
-- [Nome do Projeto](Link para o projeto) - Breve descrição do projeto.
+- Curso de Desenvolvimento de Sistemas(Link para o projeto) - Este projeto serve para compartilhar os conteudos e conhecimentos que o curso que estou fazendo oferece.
 
 ## Vamos Conectar!
 
