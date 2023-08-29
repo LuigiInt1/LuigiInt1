@@ -46,4 +46,4 @@ Fique à vontade para explorar meus repositórios e entrar em contato comigo. Va
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-dos-santos-bernardo-775335250/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luigi_s4ntos/)
 [![GitHub Seguir](https://img.shields.io/github/followers/LuigiInt1?label=Siga%20no%20GitHub&style=social)](https://github.com/LuigiInt1)
-[![Twitter Seguir](https://img.shields.io/twitter/follow/SeuPerfil?label=Siga%20no%20Twitter&style=social)](https://twitter.com/SeuPerfil)
+
