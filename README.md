@@ -7,7 +7,6 @@ Olá! Sou Luigi dos Santos, um entusiasta da programação e apaixonado por tecn
 - 🌱 Atualmente, estou aprendendo IoT e Sistemas de Modelagem de Sistemas.
 - 👯 Estou interessado em colaborar em projetos de código aberto relacionados a Front End.
 - 💬 Pergunte-me sobre meu curso.
-- 📫 Como me encontrar: E-mail <luigisantostk@gmail.com>
 
 ## Linguagens e Ferramentas
 
