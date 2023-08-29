@@ -17,7 +17,8 @@ Olá! Sou Luigi dos Santos, um entusiasta da programação e apaixonado por tecn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=white)](https://www.java.com)
+
 
 ## Estatísticas do Meu Perfil
 
