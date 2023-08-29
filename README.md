@@ -1,13 +1,13 @@
 # Bem-vindo ao meu Perfil do GitHub! 👋
 
-Olá! Sou [Seu Nome], um entusiasta da programação e apaixonado por tecnologia. Este é o meu espaço onde compartilho projetos, ideias e contribuições para a comunidade de código aberto.
+Olá! Sou Luigi dos Santos, um entusiasta da programação e apaixonado por tecnologia. Este é o meu espaço onde compartilho projetos, ideias e contribuições para a comunidade de código aberto.
 
 ## Sobre Mim
 
-- 🌱 Atualmente, estou aprendendo [Liste aqui as tecnologias ou linguagens que está aprendendo].
-- 👯 Estou interessado em colaborar em projetos de código aberto relacionados a [Área de Interesse].
-- 💬 Pergunte-me sobre [Tópicos de especialização ou interesse].
-- 📫 Como me encontrar: [Endereço de e-mail ou redes sociais].
+- 🌱 Atualmente, estou aprendendo IoT e Sistemas de Modelagem de Sistemas.
+- 👯 Estou interessado em colaborar em projetos de código aberto relacionados a Front End.
+- 💬 Pergunte-me sobre meu curso.
+- 📫 Como me encontrar: .
 
 ## Linguagens e Ferramentas
 
