@@ -10,6 +10,7 @@ Olá! Sou Luigi dos Santos, um entusiasta da programação e apaixonado por tecn
 
 ## Linguagens e Ferramentas
 
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-0A2930?style=flat&logo=React&logoColor=2ECFF2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
